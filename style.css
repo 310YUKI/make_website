@@ -1,1 +1,20 @@
-nbfkbsnd:fbknaf:
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Caveat', cursive;
+    background-color: ivory;
+}
+
+
+
+header{
+    display: flex;
+    justify-content: center;
+    color: tomato;
+    font-size: 30px;
+}
+
+h2,h3{
+    display: flex;
+    justify-content: center;
+}
